@@ -1,55 +1,86 @@
 # 👋 Olá, eu sou João Vitor Alves
 
-💻 Desenvolvedor de software com foco em **backend, APIs, integração de sistemas e automação**.
+### Desenvolvedor Backend | APIs • Integrações • Automação
 
-Atualmente trabalho no desenvolvimento de um sistema para **captura e processamento de notas fiscais eletrônicas**, buscando transformar processos burocráticos em fluxos mais automatizados, confiáveis e escaláveis.
+Desenvolvedor de software focado na construção de **sistemas backend, APIs, integrações e automação de processos**.
 
-Tenho interesse principalmente em **engenharia de software, arquitetura, boas práticas de desenvolvimento e construção de sistemas reais**.
+Atualmente trabalho no desenvolvimento de soluções para **captura e processamento de documentos fiscais eletrônicos**, lidando com integração entre sistemas, processamento de dados e automação de fluxos que tradicionalmente dependem de processos manuais.
 
-### 🚀 Atualmente
+Tenho buscado evoluir principalmente em **arquitetura de software, qualidade de código e construção de sistemas escaláveis e de fácil manutenção**.
 
-* 🔭 Desenvolvendo um **software de captura de notas fiscais**
-* 🧩 Trabalhando com **APIs, integrações e automações**
-* 🏗️ Aprofundando meus conhecimentos em **arquitetura de software, DDD, SOLID e Clean Architecture**
-* 🐳 Estudando e aplicando **Docker, mensageria e sistemas distribuídos**
-* 📚 Buscando evoluir continuamente como desenvolvedor
+---
 
-### 🛠️ Tecnologias
+## 🚀 Atualmente
 
-**Linguagens**
+* 🔭 Desenvolvendo soluções para **captura e processamento de notas fiscais eletrônicas**
+* 🔗 Construindo **APIs e integrações entre sistemas**
+* ⚙️ Automatizando processos e fluxos operacionais
+* 🏗️ Aplicando conceitos de **DDD, SOLID e Clean Architecture**
+* 🐳 Explorando **Docker, mensageria e arquiteturas distribuídas**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,ts" />
-</p>
+---
 
-**Backend & Frameworks**
+## 🛠️ Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs" />
-</p>
-
-**Banco de dados**
+### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts" />
 </p>
 
-**Infraestrutura & Ferramentas**
+### Banco de dados & Mensageria
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite,rabbitmq" />
 </p>
 
-### 📌 O que você vai encontrar por aqui
+### Infraestrutura & Ferramentas
 
-* Projetos de **desenvolvimento de software**
-* APIs e integrações entre sistemas
-* Automação de processos
-* Experimentos com arquitetura de software
-* Estudos e projetos utilizando novas tecnologias
-* Soluções para problemas reais do dia a dia
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github" />
+</p>
 
-### 📫 Onde me encontrar
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" />
+</p>
+
+---
+
+## 🧠 Interesses técnicos
+
+Alguns dos temas que venho estudando e aplicando nos meus projetos:
+
+* Arquitetura de software
+* Domain-Driven Design (DDD)
+* Clean Architecture
+* SOLID e padrões de projeto
+* APIs REST
+* Integração entre sistemas
+* Processamento assíncrono
+* Filas e mensageria
+* Docker e ambientes containerizados
+* Observabilidade e confiabilidade de sistemas
+
+---
+
+## 📌 Projetos e experimentos
+
+Por aqui você encontrará projetos relacionados a:
+
+* ⚙️ **Backend e APIs**
+* 🔗 **Integração entre sistemas**
+* 🤖 **Automação de processos**
+* 🧾 **Processamento de documentos fiscais**
+* 🏗️ **Arquitetura de software**
+* 🧪 **Experimentos com novas tecnologias**
+
+Meu objetivo é utilizar estes projetos não apenas para estudar tecnologias, mas para explorar **soluções para problemas reais de software**.
+
+---
+
+## 📫 Contato
 
 <p align="left">
   <a href="https://github.com/joao0299">
