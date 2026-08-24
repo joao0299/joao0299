@@ -19,7 +19,7 @@ Tenho interesse principalmente em **engenharia de software, arquitetura, boas pr
 **Linguagens**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts" />
 </p>
 
 **Backend & Frameworks**
