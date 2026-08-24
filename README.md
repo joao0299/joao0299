@@ -62,15 +62,3 @@ Tenho interesse principalmente em **engenharia de software, arquitetura, boas pr
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </p>
-
----
-
-### 📊 GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=joao0299&show_icons=true&locale=pt-br&theme=transparent" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao0299&layout=compact&locale=pt-br&theme=transparent" alt="Principais linguagens" />
-</p>
