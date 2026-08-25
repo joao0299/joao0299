@@ -1,149 +1,300 @@
-# 👋 Hello World! I'm João Vitor Alves
+<div align="center">
 
-### Backend Developer • PHP & JavaScript • APIs • Automation
+# 👋 Hello World, I'm João Vitor Alves
 
-Desenvolvedor de software focado na construção de **sistemas web, APIs, integrações e automação de processos**.
+### Backend Developer | PHP & JavaScript
 
-Atualmente trabalho no desenvolvimento e evolução de soluções corporativas, transformando **processos manuais e regras de negócio em aplicações digitais**, com foco em organização, produtividade e manutenção de longo prazo.
+**Sistemas Web • APIs • Integrações • Automação de Processos**
 
-```php
-<?php
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Vitor%20Alves-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-35250a170/)
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&style=flat-square\&label=Profile+Views)
 
-$developer = [
-    'name'     => 'João Vitor Alves',
-    'role'     => 'Backend Developer',
-    'focus'    => ['Backend', 'APIs', 'Integrations', 'Automation'],
-    'learning' => ['Software Architecture', 'DDD', 'Clean Architecture'],
-];
-
-echo 'Always building. Always learning.';
-```
+</div>
 
 ---
 
 ## 👨‍💻 About me
 
-* 💻 Desenvolvimento de **sistemas internos e aplicações web**
-* 🔗 Construção e integração de **APIs REST**
-* ⚙️ Automação de **processos e fluxos operacionais**
-* 🗄️ Modelagem e integração de **bancos de dados**
-* 🐧 Experiência com **Linux, servidores e CLI**
-* 🏗️ Estudando **arquitetura de software, DDD, SOLID e Clean Architecture**
-* 🐳 Explorando **Docker, mensageria e sistemas distribuídos**
+```php
+<?php
+
+$developer = [
+    'name' => 'João Vitor Alves',
+    'role' => 'Backend Developer',
+    'main_stack' => [
+        'PHP',
+        'JavaScript',
+        'TypeScript'
+    ],
+    'focus' => [
+        'Backend Development',
+        'REST APIs',
+        'System Integration',
+        'Process Automation'
+    ],
+    'currently_learning' => [
+        'Software Architecture',
+        'DDD',
+        'Clean Architecture',
+        'Docker',
+        'Distributed Systems'
+    ]
+];
+```
+
+Sou desenvolvedor de software com foco na construção e evolução de **sistemas web, aplicações backend, APIs, integrações e automação de processos**.
+
+Atualmente trabalho no desenvolvimento e manutenção de soluções corporativas, transformando **processos manuais, regras de negócio e fluxos operacionais em aplicações digitais**.
+
+Tenho buscado evoluir principalmente em **arquitetura de software, qualidade de código, organização de sistemas e construção de aplicações escaláveis e de fácil manutenção**.
 
 ---
 
-## 🚀 What I'm working on
+## 🚀 Currently
 
-Atualmente participo do desenvolvimento e manutenção de uma **intranet corporativa**, utilizada por diferentes áreas da empresa para centralizar processos, ferramentas e aplicações internas.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-O trabalho envolve desde a compreensão das regras de negócio até a implementação da solução:
+### 💻 Development
 
-`Problema → Regra de negócio → Arquitetura → Código → Automação`
+* Sistemas web corporativos
+* Backend com PHP
+* APIs REST
+* Integração entre sistemas
+* Automação de processos
+* Modelagem de dados
 
-Entre os principais desafios estão:
+</td>
+<td width="50%" valign="top">
 
-* desenvolvimento de novos módulos e funcionalidades;
-* criação e integração de APIs;
-* automação de processos internos;
-* modelagem e processamento de dados;
-* manutenção e evolução de sistemas existentes;
-* transformação de processos manuais em fluxos digitais.
+### 📚 Learning
+
+* Software Architecture
+* Domain-Driven Design
+* SOLID
+* Clean Architecture
+* Docker
+* Messaging
+* Distributed Systems
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+## Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,js,ts,c,cpp" />
 </p>
 
-### Backend & Web
+## Backend & Web
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,nodejs,html,css,bootstrap" />
 </p>
 
-### Databases
+## Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### DevOps & Tools
+## DevOps & Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,bash" />
 </p>
 
-### Also working with
+## Tools
 
-`REST APIs` • `MVC` • `Composer` • `PSR-4` • `SQL` • `Git Flow` • `Linux CLI` • `Automation`
-
----
-
-## 📌 Featured Project
-
-### 🏢 Intranet Corporativa
-
-Plataforma interna desenvolvida para **centralizar processos, ferramentas e aplicações utilizadas por diferentes áreas da empresa**.
-
-O projeto evolui continuamente a partir de necessidades reais do negócio, transformando processos anteriormente manuais em fluxos digitais integrados.
-
-**Principais áreas trabalhadas:**
-
-* APIs e integrações
-* automação de processos
-* gestão de usuários e permissões
-* fluxos administrativos
-* processamento de documentos e dados
-* geração de documentos
-* notificações
-* dashboards e ferramentas internas
-
-**Stack**
-
-`PHP` `JavaScript` `TypeScript` `MySQL` `REST API` `Git` `Linux` `Docker`
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"
-  />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## ⚡ Working with
 
 ```text
-Backend Development       ███████████████████░
-APIs & Integrations       ██████████████████░░
-Process Automation        ██████████████████░░
-Software Architecture     ███████████████░░░░░
-DevOps / Docker           ███████████░░░░░░░░░
+Backend            PHP • REST APIs • MVC
+Frontend           JavaScript • TypeScript • Bootstrap
+Database           MySQL • PostgreSQL • NoSQL
+Integration        REST • JSON • Webhooks
+Architecture       DDD • SOLID • Clean Architecture
+DevOps             Docker • Linux • Git
+Automation         APIs • Scripts • Process Automation
 ```
 
 ---
 
-## 🤝 Let's connect
+# 📌 Featured Project
 
-Gosto de trocar experiências sobre **desenvolvimento backend, arquitetura de software, automação e construção de sistemas reais**.
+## 🏢 Intranet Corporativa
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Vitor_Alves-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-35250a170/)
+Plataforma interna desenvolvida para centralizar **processos, ferramentas e aplicações utilizadas por diferentes áreas de uma organização**.
+
+O desenvolvimento parte de necessidades reais do negócio, transformando processos antes realizados manualmente em **fluxos digitais integrados ao sistema**.
+
+### Alguns dos desafios envolvidos
+
+* Desenvolvimento de novos módulos
+* Evolução de funcionalidades existentes
+* Integração entre sistemas
+* Construção de APIs
+* Automação de processos internos
+* Gestão de usuários e permissões
+* Processamento de documentos
+* Modelagem de regras de negócio
+* Geração automatizada de documentos
+* Dashboards e ferramentas administrativas
+* Notificações e fluxos internos
+
+### Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-009688?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 
 ---
 
-<p align="center">
-  <i>Building software to turn complex processes into simple solutions.</i>
+# 🧠 What I like building
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Backend**
+
+Sistemas e regras de negócio
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔗
+
+**APIs**
+
+Integração entre sistemas
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**Automation**
+
+Redução de processos manuais
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏗️
+
+**Architecture**
+
+Código organizado e sustentável
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 Development Focus
+
+```text
+Backend Development      ████████████████████
+APIs & Integrations      ███████████████████░
+Process Automation       ███████████████████░
+Software Architecture    ████████████████░░░░
+DevOps / Docker          ████████████░░░░░░░░
+```
+
+---
+
+# 🧩 How I approach development
+
+```text
+Business Problem
+      │
+      ▼
+Understand the Process
+      │
+      ▼
+Model the Business Rules
+      │
+      ▼
+Design the Solution
+      │
+      ▼
+Build & Integrate
+      │
+      ▼
+Automate & Improve
+```
+
+Meu objetivo não é apenas implementar funcionalidades, mas entender **o problema que está por trás delas**.
+
+Isso permite transformar regras de negócio e processos operacionais em soluções mais simples, organizadas e fáceis de manter.
+
+---
+
+# 🌱 Currently studying
+
+```text
+Software Architecture
+├── Domain-Driven Design
+├── SOLID
+├── Clean Architecture
+├── Design Patterns
+├── Messaging
+├── Docker
+└── Distributed Systems
+```
+
+---
+
+# 🤝 Let's connect
+
+Tenho interesse em trocar experiências sobre:
+
+`Backend Development`
+
+`Software Architecture`
+
+`APIs & Integrations`
+
+`Process Automation`
+
+`Engineering Practices`
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-35250a170/">
+    <img src="https://img.shields.io/badge/LinkedIn-João%20Vitor%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
+
+---
+
+<div align="center">
+
+### `Building software to turn complex processes into simple solutions.`
+
+</div>
