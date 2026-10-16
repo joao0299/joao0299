@@ -1,300 +1,75 @@
 <div align="center">
 
-# 👋 Hello World, I'm João Vitor Alves
+# João Vitor Alves
 
-### Backend Developer | PHP & JavaScript
+**Backend Developer · PHP · JavaScript · TypeScript**
 
-**Sistemas Web • APIs • Integrações • Automação de Processos**
+Desenvolvimento de sistemas web, APIs, integrações e automação de processos.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Vitor%20Alves-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-35250a170/)
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&style=flat-square\&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-35250a170/)
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## Sobre mim
 
-```php
-<?php
+Sou desenvolvedor de software com foco em **backend e soluções corporativas**. Trabalho na construção e evolução de aplicações que transformam processos manuais e regras de negócio em fluxos digitais mais simples e organizados.
 
-$developer = [
-    'name' => 'João Vitor Alves',
-    'role' => 'Backend Developer',
-    'main_stack' => [
-        'PHP',
-        'JavaScript',
-        'TypeScript'
-    ],
-    'focus' => [
-        'Backend Development',
-        'REST APIs',
-        'System Integration',
-        'Process Automation'
-    ],
-    'currently_learning' => [
-        'Software Architecture',
-        'DDD',
-        'Clean Architecture',
-        'Docker',
-        'Distributed Systems'
-    ]
-];
-```
+No dia a dia, atuo com **PHP, JavaScript, TypeScript, APIs REST, integrações entre sistemas e bancos de dados**. Gosto de compreender o problema antes de implementar a solução, considerando tanto as necessidades de quem utiliza o sistema quanto sua manutenção a longo prazo.
 
-Sou desenvolvedor de software com foco na construção e evolução de **sistemas web, aplicações backend, APIs, integrações e automação de processos**.
+Tenho aprofundado meus estudos em **arquitetura de software, DDD, SOLID, Clean Architecture e Docker**.
 
-Atualmente trabalho no desenvolvimento e manutenção de soluções corporativas, transformando **processos manuais, regras de negócio e fluxos operacionais em aplicações digitais**.
+## Tecnologias e ferramentas
 
-Tenho buscado evoluir principalmente em **arquitetura de software, qualidade de código, organização de sistemas e construção de aplicações escaláveis e de fácil manutenção**.
+| Área | Tecnologias e práticas |
+| --- | --- |
+| **Backend** | PHP, APIs REST, MVC |
+| **Web** | JavaScript, TypeScript, HTML, CSS, Bootstrap |
+| **Dados** | MySQL, PostgreSQL e conceitos de NoSQL |
+| **Integrações** | HTTP, JSON, APIs e Webhooks |
+| **Ambiente e ferramentas** | Linux, Git, GitHub, Docker, Bash, VS Code e Postman |
 
----
+## Experiência em destaque
 
-## 🚀 Currently
+### Intranet corporativa
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Participação no planejamento, desenvolvimento e evolução de uma plataforma interna que centraliza ferramentas e processos de diferentes áreas de uma organização.
 
-### 💻 Development
+**O que envolve esse trabalho:**
 
-* Sistemas web corporativos
-* Backend com PHP
-* APIs REST
-* Integração entre sistemas
-* Automação de processos
-* Modelagem de dados
+- Estruturação da aplicação em camadas, com separação de responsabilidades.
+- Desenvolvimento de módulos, regras de negócio e fluxos operacionais.
+- Cadastro e gestão de usuários, clientes e atividades.
+- Digitalização de processos societários e administrativos.
+- Integração entre sistemas e automação de tarefas recorrentes.
+- Geração e processamento de documentos, notificações e ferramentas internas.
 
-</td>
-<td width="50%" valign="top">
+**Tecnologias relacionadas:** PHP, JavaScript, TypeScript, MySQL, APIs REST, Git e Linux.
 
-### 📚 Learning
+> Meu foco é entender o processo por trás de cada funcionalidade e construir soluções que façam sentido para o negócio e para quem vai utilizá-las.
 
-* Software Architecture
-* Domain-Driven Design
-* SOLID
-* Clean Architecture
-* Docker
-* Messaging
-* Distributed Systems
+## Interesses e evolução técnica
 
-</td>
-</tr>
-</table>
+Além do desenvolvimento de aplicações, tenho interesse em decisões de arquitetura e boas práticas de engenharia de software.
 
----
+Atualmente, estudo e aprofundo conhecimentos em:
 
-# 🛠️ Tech Stack
+- **Arquitetura:** Domain-Driven Design, Clean Architecture e Design Patterns.
+- **Qualidade de código:** SOLID, modularização e manutenção de sistemas.
+- **Infraestrutura:** Docker, Linux e processos de deploy.
+- **Sistemas:** mensageria e fundamentos de sistemas distribuídos.
 
-## Languages
+## Vamos conversar?
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,c,cpp" />
-</p>
+Gosto de trocar experiências sobre **backend, arquitetura de software, APIs, integrações e automação**.
 
-## Backend & Web
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,nodejs,html,css,bootstrap" />
-</p>
-
-## Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-## DevOps & Environment
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,bash" />
-</p>
-
-## Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman" />
-</p>
-
----
-
-## ⚡ Working with
-
-```text
-Backend            PHP • REST APIs • MVC
-Frontend           JavaScript • TypeScript • Bootstrap
-Database           MySQL • PostgreSQL • NoSQL
-Integration        REST • JSON • Webhooks
-Architecture       DDD • SOLID • Clean Architecture
-DevOps             Docker • Linux • Git
-Automation         APIs • Scripts • Process Automation
-```
-
----
-
-# 📌 Featured Project
-
-## 🏢 Intranet Corporativa
-
-Plataforma interna desenvolvida para centralizar **processos, ferramentas e aplicações utilizadas por diferentes áreas de uma organização**.
-
-O desenvolvimento parte de necessidades reais do negócio, transformando processos antes realizados manualmente em **fluxos digitais integrados ao sistema**.
-
-### Alguns dos desafios envolvidos
-
-* Desenvolvimento de novos módulos
-* Evolução de funcionalidades existentes
-* Integração entre sistemas
-* Construção de APIs
-* Automação de processos internos
-* Gestão de usuários e permissões
-* Processamento de documentos
-* Modelagem de regras de negócio
-* Geração automatizada de documentos
-* Dashboards e ferramentas administrativas
-* Notificações e fluxos internos
-
-### Stack
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-009688?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-
----
-
-# 🧠 What I like building
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**Backend**
-
-Sistemas e regras de negócio
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔗
-
-**APIs**
-
-Integração entre sistemas
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**Automation**
-
-Redução de processos manuais
-
-</td>
-
-<td align="center" width="25%">
-
-### 🏗️
-
-**Architecture**
-
-Código organizado e sustentável
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📊 Development Focus
-
-```text
-Backend Development      ████████████████████
-APIs & Integrations      ███████████████████░
-Process Automation       ███████████████████░
-Software Architecture    ████████████████░░░░
-DevOps / Docker          ████████████░░░░░░░░
-```
-
----
-
-# 🧩 How I approach development
-
-```text
-Business Problem
-      │
-      ▼
-Understand the Process
-      │
-      ▼
-Model the Business Rules
-      │
-      ▼
-Design the Solution
-      │
-      ▼
-Build & Integrate
-      │
-      ▼
-Automate & Improve
-```
-
-Meu objetivo não é apenas implementar funcionalidades, mas entender **o problema que está por trás delas**.
-
-Isso permite transformar regras de negócio e processos operacionais em soluções mais simples, organizadas e fáceis de manter.
-
----
-
-# 🌱 Currently studying
-
-```text
-Software Architecture
-├── Domain-Driven Design
-├── SOLID
-├── Clean Architecture
-├── Design Patterns
-├── Messaging
-├── Docker
-└── Distributed Systems
-```
-
----
-
-# 🤝 Let's connect
-
-Tenho interesse em trocar experiências sobre:
-
-`Backend Development`
-
-`Software Architecture`
-
-`APIs & Integrations`
-
-`Process Automation`
-
-`Engineering Practices`
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-35250a170/">
-    <img src="https://img.shields.io/badge/LinkedIn-João%20Vitor%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+[**Conecte-se comigo no LinkedIn →**](https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-35250a170/)
 
 ---
 
 <div align="center">
 
-### `Building software to turn complex processes into simple solutions.`
+<sub>Construindo soluções digitais para simplificar processos reais.</sub>
 
 </div>
